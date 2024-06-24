@@ -1,0 +1,82 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.postimg.cc/Vkd5byWQ/prueba-juego.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Bienvenidos",
+                    "title1": "Bienvenidos a ALCALARK!",
+                    "text1": "Gracias por entrar en ALCALARK !\r\n\r\nNORMA PRINCIPAL ES ESTAR EN DISCOR SI NO ELIMINARE TODAS LAS BASES QUE VEA SIN ESE USUARIO O TRIBU METIDO EN DISCOR \r\n\r\nRespeten las normas. Estaran en nuestro discord.\r\nAconsejamos que entren al canal de reglas una vez a la semana \r\nya que estas pueden ir variando por cuestiones del servidor \r\n\r\n\r\nEn caso de problemas abrir ticket en discord.\r\nPulsen en el boton de discord para unirse.\r\n\r\n\r\nDisfruten del juego.",
+                    "imageurl": "https://i.postimg.cc/SNYMT3Yy/2024-06-14-Text-Studio.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "WELCOME VALHALLA 3.0!",
+                    "text1": "Thank you for entering ALCALARK!\r\n\r\n\r\nRespect the rules. They will be in our discord.\r\nWe advise you to enter the rules channel once a week\r\nsince these may vary due to service issues\r\n\r\n\r\nIn case of problems open a ticket in discord.\r\nClick on the discord button to join.\r\n\r\n\r\nEnjoy the game.\r\nSpecial characters like \" have to be escaped with a *backslash*\r\n\r\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\r\n\r\nBe careful with the file size of the images. The user have to download the images.",
+                    "imageurl": "https://i.postimg.cc/SNYMT3Yy/2024-06-14-Text-Studio.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 2,
+                    "buttontext": "Configuracion/Setting",
+                    "title1": "Configuracion",
+                    "text1": "Configuracion\r\n\r\nFarmeo x5\r\nExperiencia x5\r\nTameo x5\r\nCrianza x5",
+                    "imageurl": "https://i.postimg.cc/SNYMT3Yy/2024-06-14-Text-Studio.png",
+                    "title2": "Setting",
+                    "text2": "Setting\r\n\r\nFarming x5\r\nXp x5\r\nTaming x5\r\nBreeding x5"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "Reglas",
+                    "title1": "Reglas",
+                    "text1": "REGLAS\r\n\r\n1- Respetar a todos los jugadores, no se tolerara ningun tipo de racismo con ninguna persona\r\n2- Queda totalmente prohibido aprovecharse de cualquier tipo de bug \r\n3- Queda prohibido robar o matar a otro jugador\r\n4- No se permite el comportamiento PVP, atraer o lanzar cualquier dino salvaje con la intencion de perjudicar a otro jugador \r\n5- No se permite ningun tipo de spam\r\n6- No se permite clonar ningun dino de donacion de lvl 600 o mas\r\n7- No se podra dejar ningun dino suelto por el mapa en modo deambulación/agresivo y/o liberado, ya que puede interrumpir con tameos de otros jugadores \r\n8- En caso de perdida por cualquier tipo de bug o crasheos no nos hacemos responsables de devolver ningun tipo de objeto, salvo sea de donación y existan pruebas ,fotos \r\no videos\r\n9-En el juego poneros el mismo nombre que en discor para que asi sea mas facil para la administracion\r\n10 - Usar los canales de discor correctamente y en el chat de juego no llenarlo con vendo esto o vendo lo otro hay un apartado en discor de MERCADO para esas funciones \r\n11 -  !! IMPORTANTE !!  Todo jugador que haya entrado a discor , jugado unos dias y abandone el discor , automaticamente se eliminara su base perdiendo todo lo hay dentro de ella\r\n12-El mod de discovery world está solo en the island , esto quiere decir que si saltais con los dinos al otro mapa con cualquier Dino del primal chaos os desaparecerá y cuando volváis no os dejará sacarlo a si que acordaros de dejarlos en the island\r\n\r\n\r\nConstruccion\r\n\r\nOS RECUERDO QUE EN LA PLATAFORMA TP SE PUEDE RECUPERAR EL INVENTARIO CUANDO MUERES ACONSEJAMOS DESDE LA ADMINISTRACION QUE SEA LO PRIMERO EN FABRICARSE\r\n \r\n1 - No se permite construir en zonas ricas de farmeo de recursos y notas de explorador\r\n2- Queda prohibido construir en cuevas o bloquear el acceso a ellas\r\n3- No se puede construir en las islas de los carnívoros ni de los herbívoros\r\n4- No se permitirá el construir cualquier tipo de estructura con la intención de evitar que otra persona construya\r\n5- Se permitirá la construcción de cualquier tipo de trampa siempre y cuando sea recogida al acabar el tameo\r\n6- Se podrá construir una base principal y una base pequeña acuática para criar animales marinos\r\n7- No se permitirá la construcción de huertos apilados\r\n8- No se podrá tener mas de dos plataformas tp por tribu\r\n9- Las bases que estén en proceso de demolición cualquier jugador se podrá quedar con todo lo que tenga en su interior ( importante avisar al administrador para que borre la base )(AL QUE SE PILLE RAIDEANDO UNA BASE Y NO AVISE AL ADMINISTRADOR Y LO HAGA SOLO PARA ABUSAR SERA BANEADO)\r\n10 - Se permitira poner 4 cuatro plataformas acuaticas por que es el maximo de energia que da un generador tek\r\n11- EN LAS BASES PONER POR FAVOR UN CARTEL CON VUESTRO NOMBRE DE DISCOR PARA ASI SABER DE QUIENES SON LAS BASES ",
+                    "imageurl": "https://i.postimg.cc/SNYMT3Yy/2024-06-14-Text-Studio.png"
+                }
+            },
+            {
+                "tab5": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "Rules",
+                    "text1": "RULES\r\n\r\n1- Respect all players, no type of racism will be tolerated with any person\r\n2- It is totally prohibited to take advantage of any type of bug\r\n3- It is prohibited to steal or kill another player\r\n4- PVP behavior, attracting or throwing any wild dino with the intention of harming another player is not allowed.\r\n5- Any type of spam is not allowed\r\n6- It is not allowed to clone any donation dino of lvl 600 or more\r\n7- No dino can be left loose on the map in roaming/aggressive and/or released mode, as it can interrupt other players' tasks.\r\n8- In case of loss due to any type of bug or crash, we are not responsible for returning any type of object, unless it is a donation and there is evidence, photos\r\nor videos\r\n9-In the game, give yourself the same name as in discor so that it is easier for the administration\r\n10 - Use the disco channels correctly and in the game chat do not fill it with I sell this or I sell that, there is a MARKET section in discor for those functions\r\neleven -  !! IMPORTANT !! Any player who has entered the disco, played for a few days and leaves the disco will automatically have their base deleted, losing everything in it.\r\n11-The discovery world mod is only on the island, this means that if you jump with the dinos to the other map with any Dino from the primal chaos it will disappear and when you return it will not let you take it out so remember to leave them on the island\r\n\r\n\r\nConstruction\r\n\r\nI REMIND YOU THAT ON THE TP PLATFORM YOU CAN RECOVER YOUR INVENTORY WHEN YOU DIE WE ADVISE FROM THE ADMINISTRATION THAT IT BE THE FIRST THING TO BE MANUFACTURED\r\n \r\n1 - Building in rich resource farming areas and explorer notes is not allowed\r\n2- It is prohibited to build in caves or block access to them\r\n3- You cannot build on the carnivore or herbivore islands\r\n4- Building any type of structure with the intention of preventing another person from building will not be permitted.\r\n5- The construction of any type of trap will be allowed as long as it is collected at the end of the tameo.\r\n6- You can build a main base and a small aquatic base to raise marine animals\r\n7- The construction of stacked orchards will not be allowed\r\n8- You cannot have more than two tp platforms per tribe\r\n9- Bases that are in the process of being demolished, any player may keep everything they have inside (it is important to notify the administrator so that he can delete the base)(Anyone who is caught RAIDING A BASE AND DOES NOT NOTIFY THE ADMINISTRATOR AND DO IT ONLY FOR ABUSE YOU WILL BE BANNED)\r\n10 - It will be allowed to put 4 four aquatic platforms because it is the maximum energy that a tek generator gives\r\n11- IN THE BASES PLEASE PUT A SIGN WITH YOUR NAME OF THE DISCOR SO THAT WE KNOW WHO THE BASES ARE.",
+                    "imageurl": "https://i.postimg.cc/SNYMT3Yy/2024-06-14-Text-Studio.png"
+                }
+            },
+            {
+                "tab6": {
+                    "layout": 1,
+                    "buttontext": "FPS COMANDOS",
+                    "title1": "MAXIMIZA TU RENDIMIENTO EN ASA: CONSEJOS EFECTIVOS PARA AUMENTAR TUS FPS",
+                    "text1": "Pasos para habilitar los comandos :\r\npara ingresar los comandos , primero asegurense de habilitar el acceso a la consola desde las opciones de configuracion avanzadas, en el lado izquiero de la pantalla\r\n\r\nComandos recomendados:\r\n\r\n-r.VolumetricCloud 0 : Desactiva las nubes volumetricas , lo que puede mejorar el rendimiento en mas de 20 fps y aun asi mantiene un aspecto visual atractivo \r\n-r.Fog 0 : Elimina la niebla del entorno , lo que puede aclarar la vista sin cambiar drasticamente la estetica del juego \r\n\r\nNota Importante :\r\n\r\nLos siguientes comandos pueden desactivar varias caracteristicas graficas , pero recomiendo proceder con cautela ya que pueden reducir significativamente la calidad visual , utilizar solo si es necesario \r\n\r\n-grass.enable 0 : Ideal para pvp , permite ver a los enemigos en la hierba alta \r\n-r.Streaming.PoolSize 0 : libera la memoria de la GPU para uso del juego \r\n-r.Nanite.MaxPixelsPerEdge 4 : Reduce la complejidad de las mallas de nanite \r\n-r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16 : ajusta la resolucion de sonda para optimizar Lumen\r\n-r.DynamicGloballilluminationMethod 2 : Cambia el metodo de iluminacion global \r\n-r.ShadowQuality 0 : Dsehabilita todas las sombras para un implso significativo en FPS\r\n-r.Water.SingleLayer.Reflection 0 : Elimina los reflejos en el agua \r\n\r\nEspero que os ayuden estos comandos SUPERVIVIENTES sin mas un saludo de SITO",
+                    "imageurl": "https://i.postimg.cc/SNYMT3Yy/2024-06-14-Text-Studio.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/alcalark"
+                }
+            }
+        ]
+    }
+}
