@@ -26,7 +26,7 @@
                 "tab2": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "WELCOME VALHALLA 3.0!",
+                    "title1": "WELCOME ALCALARK!",
                     "text1": "Thank you for entering ALCALARK!\r\n\r\n\r\nRespect the rules. They will be in our discord.\r\nWe advise you to enter the rules channel once a week\r\nsince these may vary due to service issues\r\n\r\n\r\nIn case of problems open a ticket in discord.\r\nClick on the discord button to join.\r\n\r\n\r\nEnjoy the game.\r\nSpecial characters like \" have to be escaped with a *backslash*\r\n\r\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\r\n\r\nBe careful with the file size of the images. The user have to download the images.",
                     "imageurl": "https://i.postimg.cc/SNYMT3Yy/2024-06-14-Text-Studio.png"
                 }
